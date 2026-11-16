@@ -1,107 +1,37 @@
-<!-- ────────────────────────────  DIVIDER  ──────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<h1 align="center">Anass Essadikine</h1>
 
-<!-- ʜ1  -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display:inline-block">Hi 👋, I’m Anass</h1></summary>
-  </ul>
-</div>
-
-<!-- Tagline -->
-<p align="center"><em>Full-Stack Developer • Data &amp; BI Enthusiast • Master’s Student in Big Data</em></p>
-
-<!-- Contact badges -->
-<p align="center">
-  <a href="mailto:anass.essadikine2@gmail.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anass-essadikine" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://essadikine.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/ESSADIKINE" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
-<!-- Intro bullets -->
-- 🔭 Currently building **React / Node / MongoDB / AWS** projects  
-- 🌱 Master’s student in **Data Science & Big Data**  
-- ☁️ Preparing for AWS certifications  
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, AWS**  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anass-essadikine)
-
-<!-- ─────  STATS & TROPHIES  ───── -->
-<p align="center">
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ESSADIKINE&theme=tokyonight&show_icons=true&count_private=true" />
-      <br />
-      <img title="🔥 GitHub Streak" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ESSADIKINE&theme=tokyonight&hide_border=false" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESSADIKINE&theme=tokyonight&layout=compact&langs_count=10" />
-    </td>
-  </tr>
-</table>
-
-<!-- Trophy row -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=ESSADIKINE&theme=radical&row=1&column=7&margin-w=6&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
-</p>
-
-<!-- ʜ2 Tech stack -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display:inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<p align="center"><strong>AI &amp; Data Engineer · Full-Stack Developer · Casablanca, Morocco</strong></p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,spring,java,python,django,php,html,css,tailwind,docker,kubernetes,jenkins,aws,mongodb,postgres,mysql,redis,spark,hadoop,git,github,linux,bash&perline=14" />
-  </a>
+  <a href="https://essadikine.com"><img src="https://img.shields.io/badge/Portfolio-essadikine.com-1558c7?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/anass-essadikine/"><img src="https://img.shields.io/badge/LinkedIn-anass--essadikine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@essadikine.com"><img src="https://img.shields.io/badge/Email-contact%40essadikine.com-202124?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<!-- ʜ2 Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display:inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
+Anass Essadikine is a Full-Stack Developer and Data & AI Engineer based in Casablanca, Morocco. He builds web applications with Next.js, React and Spring Boot, and data and AI solutions: Power BI dashboards, data pipelines, machine learning, RAG assistants and n8n automation.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anass-essadikine" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-  <a href="https://twitter.com/anas0706_ss" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/anas0706_ss/?hl=fr" target="blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-  </a>
-</p>
+Master's degree in Data Science & Big Data (Université Hassan II, Casablanca, 2026). Open to full-time roles and freelance missions, in Casablanca or remote. Languages: Arabic, French, English.
 
-<!-- Visitor counter -->
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=ESSADIKINE&icon=3&color=6">
-    <img src="https://visitcount.itsvg.in/api?id=ESSADIKINE&icon=3&color=6" />
-  </a>
-</div>
+## Two profiles
 
-<!-- ────────────────────────────  DIVIDER  ──────────────────────────── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+| | |
+|---|---|
+| **AI & Data Engineer** | ETL pipelines, data warehouses (star schema), Power BI, machine learning, RAG assistants and LLM automation · [profile](https://essadikine.com/fr/data-ai-engineer) |
+| **Full-Stack Developer** | Next.js, React, Spring Boot, Node.js, Docker and CI/CD, fast and SEO-ready websites · [profile](https://essadikine.com/fr/full-stack-developer) |
 
-<sub align="center">Last updated · 03 Aug 2025</sub>
+## Selected case studies
+
+- [D&A Studio](https://essadikine.com/portfolio/dna-studio-data-ai-platform): data and AI platform with a RAG assistant on company documents, anomaly detection and Power BI (end-of-studies internship)
+- [E-commerce + AI sales assistant](https://essadikine.com/portfolio/ecommerce-platform-whatsapp-ai-assistant): semantic product search with pgvector and an LLM that understands Darija
+- [Decision-support system](https://essadikine.com/portfolio/cnss-decision-support-system-bi): star-schema data warehouse, ETL with KNIME and Python, dashboards
+- [RecruSmart](https://essadikine.com/portfolio/recrusmart-ai-recruitment-platform): AI scoring of CVs in a microservices platform (FastAPI, RabbitMQ, Kubernetes)
+- [AI job-application automation](https://essadikine.com/portfolio/ai-prospecting-automation-n8n): n8n workflow with OCR and an LLM agent ([repo](https://github.com/ESSADIKINE/job-applier))
+- [Real-time streaming](https://essadikine.com/portfolio/realtime-ecommerce-streaming-flink-kafka): Flink and Kafka analytics ([repo](https://github.com/ESSADIKINE/FlinkCommerceStream))
+
+All projects: [essadikine.com/portfolio](https://essadikine.com/portfolio) · Services and prices: [essadikine.com/fr/pricing](https://essadikine.com/fr/pricing)
+
+## Stack
+
+**Data & AI:** Python, SQL, Pandas, scikit-learn, PyTorch, Power BI, Spark, Kafka, RAG, embeddings, pgvector, LLM APIs, n8n
+**Web:** TypeScript, Next.js, React, Node.js, NestJS, Spring Boot, PostgreSQL, MongoDB
+**Delivery:** Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, Linux
